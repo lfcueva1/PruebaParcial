@@ -1,0 +1,7 @@
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Parcial1Prueba1\bin\Debug\Parcial1Prueba1.exe.config
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Parcial1Prueba1\bin\Debug\Parcial1Prueba1.exe
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Parcial1Prueba1\bin\Debug\Parcial1Prueba1.pdb
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Parcial1Prueba1\obj\Debug\Parcial1Prueba1.csproj.AssemblyReference.cache
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Parcial1Prueba1\obj\Debug\Parcial1Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Parcial1Prueba1\obj\Debug\Parcial1Prueba1.exe
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Parcial1Prueba1\obj\Debug\Parcial1Prueba1.pdb
